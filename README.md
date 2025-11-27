@@ -1,1 +1,2 @@
-# Determinaci-n-de-la-capacidad-de-producci-n
+# Determinaci-n-de-la-capacidad-de-producción
+Las definiciones que se alcancen en cuanto a las posibilidades de mercado, decidirán en primer término la capacidad de la planta a instalar, para luego adecuar definitivamente dicha decisión a las posibilidades técnicas. El tamaño del proyecto es entonces la capacidad de producción durante un período que se considera normal y si bien existen otros parámetros para medirlo, como el número de obreros ocupados o especiales características de la producción, la acepción que se adopta para este desarrollo es la primera.
